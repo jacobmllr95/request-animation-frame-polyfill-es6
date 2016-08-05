@@ -1,7 +1,7 @@
 # [requestAnimationFrame Polyfill](https://github.com/jackmu95/request-animation-frame-polyfill-es6/)
 
 [![npm](https://img.shields.io/npm/v/request-animation-frame-polyfill-es6.svg)](https://www.npmjs.com/package/request-animation-frame-polyfill-es6/)
-[![devDependency Status](https://img.shields.io/david/dev/jackmu95/request-animation-frame-polyfill-es6.svg)](https://david-dm.org/jackmu95/request-animation-frame-polyfill-es6/#info=devDependencies)
+[![devDependency Status](https://img.shields.io/david/dev/jackmu95/request-animation-frame-polyfill-es6.svg)](https://david-dm.org/jackmu95/request-animation-frame-polyfill-es6?type=dev)
 
 A polyfill for requestAnimationFrame written in ES6.
 

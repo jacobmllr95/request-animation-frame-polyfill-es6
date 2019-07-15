@@ -1,6 +1,6 @@
 {
   "name": "request-animation-frame-polyfill-es6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A polyfill for requestAnimationFrame written in ES6.",
   "repository": "jackmu95/request-animation-frame-polyfill-es6",
   "index": "src/index.js",
